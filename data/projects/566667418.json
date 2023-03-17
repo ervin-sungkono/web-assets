@@ -1,0 +1,10 @@
+{
+    "topics": [
+        "Android Studio",
+        "Java",
+        "SQLite",
+        "Firebase Auth"
+    ],
+    "category": ["Mobile App"],
+    "image": "https://raw.githubusercontent.com/ervin-sungkono/web-assets/master/images/Inventory-Management-App.png"
+}
