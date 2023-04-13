@@ -1,19 +1,19 @@
 {
     "icons_url":[
-        "html",
-        "css",
-        "js",
-        "bootstrap",
-        "tailwind",
-        "sass",
-        "react",
-        "nextjs",
-        "nodejs",
-        "java",
-        "androidstudio",
-        "mysql",
-        "laravel",
-        "git",
-        "figma"
+        "HTML",
+        "CSS",
+        "JS",
+        "Bootstrap",
+        "Tailwind",
+        "SASS",
+        "React",
+        "NextJS",
+        "NodeJS",
+        "Java",
+        "Android Studio",
+        "MySQL",
+        "Laravel",
+        "Git",
+        "Figma"
     ]
 }
