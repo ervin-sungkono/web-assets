@@ -1,0 +1,52 @@
+{
+    "projects": [
+        {
+            "title": "Interactive Comments Section",
+            "description": "Interactive comments section component built using Next.js and Tailwind. Users can add, view, update, and delete their comments. Existing comments are stored in the localStorage.",
+            "createdAt": "2023-05-12",
+            "siteUrl": "https://interactive-comments-section-ervin-sungkono.vercel.app/",
+            "repoUrl": "https://github.com/ervin-sungkono/Frontend-Mentor/tree/main/interactive-comments-section",
+            "tags": ["Next.js", "React", "Tailwind", "Responsive"],
+            "images": [
+                "https://raw.githubusercontent.com/ervin-sungkono/FrontendMentor.io/main/interactive-comments-section/public/screenshot.jpg",
+                "https://raw.githubusercontent.com/ervin-sungkono/FrontendMentor.io/main/interactive-comments-section/public/screenshot_2.jpg",
+                "https://raw.githubusercontent.com/ervin-sungkono/FrontendMentor.io/main/interactive-comments-section/public/screenshot_3.jpg"
+            ]
+        },
+        {
+            "title": "Easybank Landing Page",
+            "description": "Website landing page made using Next.js and Tailwind CSS, it is adjusted for both desktop and mobile screens.",
+            "createdAt": "2023-05-03",
+            "siteUrl": "https://easybank-landing-page-ervin-sungkono.vercel.app/",
+            "repoUrl": "https://github.com/ervin-sungkono/Frontend-Mentor/tree/main/easybank-landing-page",
+            "tags": ["Next.js", "React", "Tailwind", "Responsive"],
+            "images": [
+                "https://raw.githubusercontent.com/ervin-sungkono/FrontendMentor.io/main/easybank-landing-page/public/screenshot.jpg",
+                "https://raw.githubusercontent.com/ervin-sungkono/FrontendMentor.io/main/easybank-landing-page/public/screenshot_2.jpg",
+                "https://raw.githubusercontent.com/ervin-sungkono/FrontendMentor.io/main/easybank-landing-page/public/screenshot_3.jpg"
+            ]
+        },
+        {
+            "title": "Launch Countdown Timer",
+            "description": "Countdown timer single page, the timer starts from a fixed amount of time and keeps going down until it reaches 0. Every time a number displayed is changing, the card will show a flip animation similar to a calendar being flipped.",
+            "createdAt": "2023-04-14",
+            "siteUrl": "https://ervin-sungkono.github.io/FrontendMentor.io/launch-countdown-timer/",
+            "repoUrl": "https://github.com/ervin-sungkono/Frontend-Mentor/tree/main/launch-countdown-timer",
+            "tags": ["HTML", "CSS", "JS", "Responsive"],
+            "images": [
+                "https://raw.githubusercontent.com/ervin-sungkono/FrontendMentor.io/main/launch-countdown-timer/images/preview_img.png"
+            ]
+        },
+        {
+            "title": "Interactive Rating Component",
+            "description": "Interactive rating card component, with flip animations when submitting the rating.",
+            "createdAt": "2023-04-11",
+            "siteUrl": "https://ervin-sungkono.github.io/FrontendMentor.io/interactive-rating-component/",
+            "repoUrl": "https://github.com/ervin-sungkono/Frontend-Mentor/tree/main/interactive-rating-component",
+            "tags": ["HTML", "CSS", "JS", "Responsive"],
+            "images": [
+                "https://raw.githubusercontent.com/ervin-sungkono/FrontendMentor.io/main/interactive-rating-component/images/preview_img.png"
+            ]
+        }
+    ]
+}
