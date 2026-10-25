@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "title": "CSS Box Shadow Generator",
+  "summary": "Generate and modify CSS for cards using box-shadow attribute",
+  "description": "Generate and modify CSS for cards using box-shadow attribute",
+  "published": true,
+  "featured": false,
+  "sortOrder": 100,
+  "year": 2022,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "html",
+    "css",
+    "js"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://ervin-sungkono.github.io/CSS-Box-Shadow-Generator",
+    "source": "https://github.com/ervin-sungkono/CSS-Box-Shadow-Generator"
+  },
+  "media": {
+    "cover": "media/projects/css-box-shadow-generator/cover-b16ceca4.webp",
+    "gallery": []
+  }
+}

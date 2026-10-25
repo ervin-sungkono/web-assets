@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "siteTitle": "Ervin Cahyadinata Sungkono",
+  "headline": "Software Engineer",
+  "introduction": "Software engineer at Samsung R&D Institute Indonesia, with a background in frontend development and interface design.",
+  "socialLinks": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/ervin-sungkono"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ervin-cahyadinata-sungkono"
+    },
+    {
+      "label": "Dribbble",
+      "url": "https://dribbble.com/ErvinCS"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/ervin.cs"
+    }
+  ]
+}

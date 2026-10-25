@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "title": "Weather Forecast App",
+  "summary": "Weather Forecast App showing weather data on a selected city for the next 24 hours.",
+  "description": "Weather Forecast App showing weather data on a selected city for the next 24 hours.",
+  "published": true,
+  "featured": false,
+  "sortOrder": 130,
+  "year": 2022,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "html",
+    "css",
+    "js",
+    "fetch-api"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://ervin-sungkono.github.io/Weather-Forecast-App/",
+    "source": "https://github.com/ervin-sungkono/Weather-Forecast-App"
+  },
+  "media": {
+    "cover": "media/projects/weather-forecast-app/cover-8e4019ab.webp",
+    "gallery": []
+  }
+}

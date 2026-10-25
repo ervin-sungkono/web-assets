@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "title": "Todo App",
+  "summary": "Todo App created using React and SASS, connected with Todo App API from backend side.",
+  "description": "Todo App created using React and SASS, connected with Todo App API from backend side.",
+  "published": true,
+  "featured": false,
+  "sortOrder": 110,
+  "year": 2022,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "react",
+    "sass"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://ervin-sungkono.github.io/Todo-App/",
+    "source": "https://github.com/ervin-sungkono/Todo-App"
+  },
+  "media": {
+    "cover": "media/projects/todo-app/cover-0e79d12d.webp",
+    "gallery": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "title": "DnD Multiplication Game",
+  "summary": "Multiplication Game using Drag and Drop, built with HTML, CSS and Javascript.",
+  "description": "Multiplication Game using Drag and Drop, built with HTML, CSS and Javascript.",
+  "published": true,
+  "featured": false,
+  "sortOrder": 140,
+  "year": 2022,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "html",
+    "css",
+    "js",
+    "drag-and-drop"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://ervin-sungkono.github.io/DnD-Multiplication-Game",
+    "source": "https://github.com/ervin-sungkono/DnD-Multiplication-Game"
+  },
+  "media": {
+    "cover": "media/projects/dnd-multiplication-game/cover-95561190.webp",
+    "gallery": []
+  }
+}

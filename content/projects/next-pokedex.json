@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "title": "Next Pokedex",
+  "summary": "Pokedex using PokeAPI, built in Next.js using SSG and SSR",
+  "description": "Pokedex using PokeAPI, built in Next.js using SSG and SSR",
+  "published": true,
+  "featured": true,
+  "sortOrder": 30,
+  "year": 2022,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "nextjs",
+    "react",
+    "sass",
+    "poke-api"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://next-pokedex-ervin-sungkono.vercel.app/",
+    "source": "https://github.com/ervin-sungkono/Next-Pokedex"
+  },
+  "media": {
+    "cover": "media/projects/next-pokedex/cover-4c4bd47d.webp",
+    "gallery": []
+  }
+}

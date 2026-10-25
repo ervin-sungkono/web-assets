@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "title": "ChatGPT Clone",
+  "summary": "A clone of ChatGPT website, made using the ChatGPT API. Additional features like .txt or .pdf upload and speech recognition are also included.",
+  "description": "A clone of ChatGPT website, made using the ChatGPT API. Additional features like .txt or .pdf upload and speech recognition are also included.",
+  "published": true,
+  "featured": true,
+  "sortOrder": 20,
+  "year": 2023,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "nextjs",
+    "tailwind",
+    "chatgpt",
+    "speech-recognition",
+    "server-sent-events"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://chatgpt-clone-ervin-sungkono.vercel.app",
+    "source": "https://github.com/ervin-sungkono/ChatGPT-Clone"
+  },
+  "media": {
+    "cover": "media/projects/chatgpt-clone/cover-a96c6df9.webp",
+    "gallery": []
+  }
+}

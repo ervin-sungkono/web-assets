@@ -1,0 +1,14 @@
+{
+  "web": {
+    "label": "Website",
+    "sortOrder": 10
+  },
+  "mobile": {
+    "label": "Mobile App",
+    "sortOrder": 20
+  },
+  "other": {
+    "label": "Others",
+    "sortOrder": 30
+  }
+}

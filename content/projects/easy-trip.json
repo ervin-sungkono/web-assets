@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "title": "Easy Trip",
+  "summary": "Website for checking tourist destination and buying tickets, built with Laravel 8 and Bootstrap. Group assignment for Final Project purposes",
+  "description": "Website for checking tourist destination and buying tickets, built with Laravel 8 and Bootstrap. Group assignment for Final Project purposes",
+  "published": true,
+  "featured": false,
+  "sortOrder": 50,
+  "year": 2022,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "laravel",
+    "php",
+    "bootstrap",
+    "dompdf",
+    "ckeditor"
+  ],
+  "tags": [],
+  "links": {
+    "source": "https://github.com/ervin-sungkono/Easy-Trip"
+  },
+  "media": {
+    "cover": "media/projects/easy-trip/cover-750ffcfe.webp",
+    "gallery": []
+  }
+}

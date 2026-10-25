@@ -1,0 +1,101 @@
+{
+  "html": {
+    "label": "HTML"
+  },
+  "css": {
+    "label": "CSS"
+  },
+  "js": {
+    "label": "JS"
+  },
+  "fetch-api": {
+    "label": "Fetch API"
+  },
+  "drag-and-drop": {
+    "label": "Drag and Drop"
+  },
+  "react": {
+    "label": "React"
+  },
+  "sass": {
+    "label": "SASS"
+  },
+  "laravel": {
+    "label": "Laravel"
+  },
+  "php": {
+    "label": "PHP"
+  },
+  "bootstrap": {
+    "label": "Bootstrap"
+  },
+  "dompdf": {
+    "label": "DomPDF"
+  },
+  "ckeditor": {
+    "label": "CKEditor"
+  },
+  "android-studio": {
+    "label": "Android Studio"
+  },
+  "java": {
+    "label": "Java"
+  },
+  "sqlite": {
+    "label": "SQLite"
+  },
+  "firebase-auth": {
+    "label": "Firebase Auth"
+  },
+  "nextjs": {
+    "label": "Next.js"
+  },
+  "poke-api": {
+    "label": "Poke API"
+  },
+  "nodejs": {
+    "label": "Node.js"
+  },
+  "music-bot": {
+    "label": "Music Bot"
+  },
+  "discord-player": {
+    "label": "Discord Player"
+  },
+  "discordjs": {
+    "label": "Discord.js"
+  },
+  "discord-bot": {
+    "label": "Discord Bot"
+  },
+  "ssr": {
+    "label": "SSR"
+  },
+  "material-ui": {
+    "label": "Material UI"
+  },
+  "youtube-api": {
+    "label": "Youtube API"
+  },
+  "tailwind": {
+    "label": "Tailwind"
+  },
+  "component": {
+    "label": "Component"
+  },
+  "chatgpt": {
+    "label": "ChatGPT"
+  },
+  "speech-recognition": {
+    "label": "Speech Recognition"
+  },
+  "server-sent-events": {
+    "label": "Server Sent Events"
+  },
+  "firebase": {
+    "label": "Firebase"
+  },
+  "qr-code": {
+    "label": "QR Code"
+  }
+}

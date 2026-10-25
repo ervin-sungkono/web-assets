@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "title": "Discord Music Bot",
+  "summary": "Music bot for Discord servers using discord-player and discord.js",
+  "description": "Music bot for Discord servers using discord-player and discord.js",
+  "published": true,
+  "featured": false,
+  "sortOrder": 70,
+  "year": 2023,
+  "categories": [
+    "other"
+  ],
+  "technologies": [
+    "nodejs",
+    "music-bot",
+    "discord-player",
+    "discordjs",
+    "discord-bot"
+  ],
+  "tags": [],
+  "links": {
+    "source": "https://github.com/ervin-sungkono/Discord-Music-Bot"
+  },
+  "media": {
+    "cover": "media/projects/discord-music-bot/cover-31077fb7.webp",
+    "gallery": []
+  }
+}

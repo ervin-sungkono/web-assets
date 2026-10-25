@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "title": "Android Calculator App",
+  "summary": "Calculator App built in Android Studio using Java",
+  "description": "Calculator App built in Android Studio using Java",
+  "published": true,
+  "featured": false,
+  "sortOrder": 170,
+  "year": 2022,
+  "categories": [
+    "mobile"
+  ],
+  "technologies": [
+    "android-studio",
+    "java"
+  ],
+  "tags": [],
+  "links": {
+    "source": "https://github.com/ervin-sungkono/Android-Calculator-App"
+  },
+  "media": {
+    "cover": "media/projects/android-calculator-app/cover-9d978234.webp",
+    "gallery": []
+  }
+}

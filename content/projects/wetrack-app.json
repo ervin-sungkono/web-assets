@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "title": "WeTrack App",
+  "summary": "Development of project management app for thesis using NextJS v13 and Firebase",
+  "description": "Development of project management app for thesis using NextJS v13 and Firebase",
+  "published": true,
+  "featured": true,
+  "sortOrder": 10,
+  "year": 2024,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "nextjs",
+    "tailwind",
+    "nodejs",
+    "firebase",
+    "html",
+    "css",
+    "js"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://wetrack-app.vercel.app",
+    "source": "https://github.com/ervin-sungkono/WeTrack-App"
+  },
+  "media": {
+    "cover": "media/projects/wetrack-app/cover-d8eb479c.webp",
+    "gallery": []
+  }
+}

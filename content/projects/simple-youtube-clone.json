@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "title": "Simple Youtube Clone",
+  "summary": "Youtube Clone without any database using youtube-sr and yt-channel-info package, using Material UI for the design",
+  "description": "Youtube Clone without any database using youtube-sr and yt-channel-info package, using Material UI for the design",
+  "published": true,
+  "featured": false,
+  "sortOrder": 150,
+  "year": 2023,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "nextjs",
+    "ssr",
+    "react",
+    "material-ui",
+    "youtube-api"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://simple-yt-clone.vercel.app/",
+    "source": "https://github.com/ervin-sungkono/Simple-Youtube-Clone"
+  },
+  "media": {
+    "cover": "media/projects/simple-youtube-clone/cover-3256e4c1.webp",
+    "gallery": []
+  }
+}

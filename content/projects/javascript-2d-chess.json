@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "title": "Javascript 2D Chess",
+  "summary": "2D Chess Game made in Javascript.",
+  "description": "2D Chess Game made in Javascript.",
+  "published": true,
+  "featured": false,
+  "sortOrder": 160,
+  "year": 2022,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "html",
+    "css",
+    "js"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://ervin-sungkono.github.io/Javascript-2D-Chess",
+    "source": "https://github.com/ervin-sungkono/Javascript-2D-Chess"
+  },
+  "media": {
+    "cover": "media/projects/javascript-2d-chess/cover-8797ece6.webp",
+    "gallery": []
+  }
+}

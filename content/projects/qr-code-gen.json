@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "title": "QR Code Gen",
+  "summary": "Simple QR Code Generator",
+  "description": "Simple QR Code Generator",
+  "published": true,
+  "featured": false,
+  "sortOrder": 90,
+  "year": 2024,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "nextjs",
+    "tailwind",
+    "qr-code",
+    "html",
+    "css",
+    "js"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://qr-code-gen-nu.vercel.app",
+    "source": "https://github.com/ervin-sungkono/QR-Code-Gen"
+  },
+  "media": {
+    "cover": "media/projects/qr-code-gen/cover-09c69301.webp",
+    "gallery": []
+  }
+}

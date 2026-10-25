@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "title": "Frontend Mentor",
+  "summary": "a collection of solutions for frontendmentor.io challenges",
+  "description": "a collection of solutions for frontendmentor.io challenges",
+  "published": true,
+  "featured": false,
+  "sortOrder": 40,
+  "year": 2023,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "nextjs",
+    "tailwind",
+    "component",
+    "html",
+    "css",
+    "js"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://ervin-sungkono-frontend-mentor.vercel.app/",
+    "source": "https://github.com/ervin-sungkono/FrontendMentor.io"
+  },
+  "media": {
+    "cover": "media/projects/frontendmentor-io/cover-1a3cd503.webp",
+    "gallery": [
+      "media/projects/frontendmentor-io/gallery-1-2c26baa5.webp",
+      "media/projects/frontendmentor-io/gallery-2-8af2367c.webp",
+      "media/projects/frontendmentor-io/gallery-3-1d435a92.webp",
+      "media/projects/frontendmentor-io/gallery-4-d3b41133.webp",
+      "media/projects/frontendmentor-io/gallery-5-f6ae416e.webp",
+      "media/projects/frontendmentor-io/gallery-6-fb78dcff.webp",
+      "media/projects/frontendmentor-io/gallery-7-cb65c446.webp",
+      "media/projects/frontendmentor-io/gallery-8-a7a881d8.webp"
+    ]
+  }
+}

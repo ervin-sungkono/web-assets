@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "title": "Inventory Management App",
+  "summary": "Inventory Management App for group final project. Made in Android Studio using Java, SQLite, and Firebase Auth.",
+  "description": "Inventory Management App for group final project. Made in Android Studio using Java, SQLite, and Firebase Auth.",
+  "published": true,
+  "featured": false,
+  "sortOrder": 80,
+  "year": 2022,
+  "categories": [
+    "mobile"
+  ],
+  "technologies": [
+    "android-studio",
+    "java",
+    "sqlite",
+    "firebase-auth"
+  ],
+  "tags": [],
+  "links": {
+    "source": "https://github.com/ervin-sungkono/Inventory-Management-App"
+  },
+  "media": {
+    "cover": "media/projects/inventory-management-app/cover-0885a3f0.webp",
+    "gallery": []
+  }
+}

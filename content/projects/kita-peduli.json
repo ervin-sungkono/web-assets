@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "title": "Kita Peduli",
+  "summary": "Team Project for Invention 2022 Udayana Web Design Competition, created using React and SASS.",
+  "description": "Team Project for Invention 2022 Udayana Web Design Competition, created using React and SASS.",
+  "published": true,
+  "featured": false,
+  "sortOrder": 60,
+  "year": 2022,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "react",
+    "sass"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://ervin-sungkono.github.io/Kita-Peduli",
+    "source": "https://github.com/ervin-sungkono/Kita-Peduli"
+  },
+  "media": {
+    "cover": "media/projects/kita-peduli/cover-7f1519de.webp",
+    "gallery": []
+  }
+}

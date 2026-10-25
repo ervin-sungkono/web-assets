@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "title": "Clock App",
+  "summary": "Clock App built using Javascript, features a timer, stopwatch, and a clock visualization.",
+  "description": "Clock App built using Javascript, features a timer, stopwatch, and a clock visualization.",
+  "published": true,
+  "featured": false,
+  "sortOrder": 120,
+  "year": 2022,
+  "categories": [
+    "web"
+  ],
+  "technologies": [
+    "html",
+    "css",
+    "js"
+  ],
+  "tags": [],
+  "links": {
+    "demo": "https://ervin-sungkono.github.io/Clock-App",
+    "source": "https://github.com/ervin-sungkono/Clock-App"
+  },
+  "media": {
+    "cover": "media/projects/clock-app/cover-b5ef219e.webp",
+    "gallery": []
+  }
+}
