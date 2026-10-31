@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "profile": {
+    "name": "Ervin Cahyadinata Sungkono",
+    "title": "Software Engineer",
+    "linkedin": "https://www.linkedin.com/in/ervin-cahyadinata-sungkono",
+    "github": "https://github.com/ervin-sungkono",
+    "dribbble": "https://dribbble.com/ErvinCS",
+    "instagram": "https://www.instagram.com/ervin.cs",
+    "cv": "https://drive.google.com/file/d/1cODpw-zhF3dpDGRBxN0HlxOI1ywUYUbK/view?usp=sharing",
+    "intro": "Software engineer at Samsung R&D Institute Indonesia, with a background in frontend development and interface design.",
+    "experiences": [
+      {
+        "company": "Samsung R&D Institute Indonesia",
+        "role": "Software Engineer",
+        "start": "2024-12",
+        "end": null,
+        "description": "Current software engineering role at Samsung R&D Institute Indonesia."
+      },
+      {
+        "company": "Pharma Metric Labs",
+        "role": "Front End Developer",
+        "start": "2024-03",
+        "end": "2024-09",
+        "description": "Developed internal Next.js applications, tested releases, maintained company websites, and designed interfaces in Figma."
+      },
+      {
+        "company": "PT Kalbe Farma, Tbk",
+        "role": "Front End Developer",
+        "start": "2023-02",
+        "end": "2024-02",
+        "description": "Built internal websites and applications with Next.js and JavaScript, translated requirements into interfaces, and supported frontend testing and maintenance."
+      }
+    ],
+    "education": {
+      "school": "BINUS University",
+      "degree": "Bachelor’s Degree in Computer Science",
+      "years": "2020–2024"
+    }
+  },
+  "skills": [
+    {
+      "label": "React",
+      "icon": "react"
+    },
+    {
+      "label": "Next.js",
+      "icon": "nextjs"
+    },
+    {
+      "label": "JavaScript",
+      "icon": "js"
+    },
+    {
+      "label": "HTML",
+      "icon": "html"
+    },
+    {
+      "label": "CSS",
+      "icon": "css"
+    },
+    {
+      "label": "Tailwind",
+      "icon": "tailwind"
+    },
+    {
+      "label": "Sass",
+      "icon": "sass"
+    },
+    {
+      "label": "Git",
+      "icon": "git"
+    },
+    {
+      "label": "Figma",
+      "icon": "figma"
+    },
+    {
+      "label": "Node.js",
+      "icon": "nodejs"
+    },
+    {
+      "label": "Laravel",
+      "icon": "laravel"
+    },
+    {
+      "label": "MySQL",
+      "icon": "mysql"
+    },
+    {
+      "label": "Java",
+      "icon": "java"
+    },
+    {
+      "label": "Android Studio",
+      "icon": "androidstudio"
+    },
+    {
+      "label": "Bootstrap",
+      "icon": "bootstrap"
+    }
+  ],
+  "designs": [
+    {
+      "title": "Healthcare Website Landing Page",
+      "url": "https://dribbble.com/shots/20875490-Healthcare-Website-Landing-Page",
+      "id": "20875490",
+      "image": "https://cdn.dribbble.com/userupload/5246832/file/original-f189f0ec292d67fb827a97bc61b90b80.png?resize=1200x0",
+      "category": "Web"
+    },
+    {
+      "title": "HOSHI FOOD - Food Delivery App",
+      "url": "https://dribbble.com/shots/20853530-HOSHI-FOOD-Food-Delivery-App",
+      "id": "20853530",
+      "image": "https://cdn.dribbble.com/userupload/5190632/file/original-9e03d994d2ff26405da0b87d68cb5727.png?resize=1200x0",
+      "category": "Mobile"
+    },
+    {
+      "title": "HOSHI FOOD - Onboarding Screen UI",
+      "url": "https://dribbble.com/shots/20842471-HOSHI-FOOD-Onboarding-Screen-UI",
+      "id": "20842471",
+      "image": "https://cdn.dribbble.com/userupload/5160903/file/original-c62a65d3a00dde88814f7231cdd9df27.png?resize=1200x0",
+      "category": "Mobile"
+    },
+    {
+      "title": "AudioWaves - Music Player Dashboard (Dark)",
+      "url": "https://dribbble.com/shots/18879968-AudioWaves-Music-Player-Dashboard-Dark",
+      "id": "18879968",
+      "image": "https://cdn.dribbble.com/userupload/38678006/file/original-3ffd556c6c266689f6a334126ee70934.png?resize=1200x0",
+      "category": "Web"
+    },
+    {
+      "title": "AudioWaves - Music Player Dashboard (Light)",
+      "url": "https://dribbble.com/shots/18872249-AudioWaves-Music-Player-Dashboard-Light",
+      "id": "18872249",
+      "image": "https://cdn.dribbble.com/userupload/38665573/file/original-bb9d3e53ba5260cd053b94a08da4fc10.png?resize=1200x0",
+      "category": "Web"
+    },
+    {
+      "title": "Online Fashion Shop Landing Page",
+      "url": "https://dribbble.com/shots/18841593-Online-Fashion-Shop-Landing-Page",
+      "id": "18841593",
+      "image": "https://cdn.dribbble.com/userupload/38614893/file/original-81d78cc3f78f3263ff2a05486e68f2a8.png?resize=1200x0",
+      "category": "Web"
+    },
+    {
+      "title": "Shoe Store Mobile App",
+      "url": "https://dribbble.com/shots/18507534-Shoe-Store-Mobile-App",
+      "id": "18507534",
+      "image": "https://cdn.dribbble.com/userupload/38061667/file/original-9ca71a0b88a04912b1ec85ad14ce2698.png?resize=1200x0",
+      "category": "Mobile"
+    },
+    {
+      "title": "Trips - Travel Agency Landing Page (FULL)",
+      "url": "https://dribbble.com/shots/18463708-Trips-Travel-Agency-Landing-Page-FULL",
+      "id": "18463708",
+      "image": "https://cdn.dribbble.com/userupload/37993018/file/original-119d68fae053fdd45eb27f3e5832d278.png?resize=1200x0",
+      "category": "Web"
+    },
+    {
+      "title": "Trips - Travel Agency Landing Page",
+      "url": "https://dribbble.com/shots/18413557-Trips-Travel-Agency-Landing-Page",
+      "id": "18413557",
+      "image": "https://cdn.dribbble.com/userupload/37915231/file/original-99e48a07e48d73ab41a20576702ee77e.png?resize=1200x0",
+      "category": "Web"
+    },
+    {
+      "title": "TaskIt - To-Do List App",
+      "url": "https://dribbble.com/shots/18395686-TaskIt-To-Do-List-App",
+      "id": "18395686",
+      "image": "https://cdn.dribbble.com/userupload/37887264/file/original-ee10d7929717375f053215d0447d77b8.png?resize=1200x0",
+      "category": "Mobile"
+    },
+    {
+      "title": "MamaRecipe - Website Landing Page",
+      "url": "https://dribbble.com/shots/18344748-MamaRecipe-Website-Landing-Page",
+      "id": "18344748",
+      "image": "https://cdn.dribbble.com/userupload/37801983/file/original-b5c78ced7f3d0a35e2ba00b62c1e9c7e.png?resize=1200x0",
+      "category": "Web"
+    },
+    {
+      "title": "LetsWatch - Movie Streaming Website",
+      "url": "https://dribbble.com/shots/18300128-LetsWatch-Movie-Streaming-Website",
+      "id": "18300128",
+      "image": "https://cdn.dribbble.com/userupload/37727277/file/original-94018b41ab60360f23384050908db003.png?resize=1200x0",
+      "category": "Web"
+    },
+    {
+      "title": "Maestro - Music Streaming App",
+      "url": "https://dribbble.com/shots/18254334-Maestro-Music-Streaming-App",
+      "id": "18254334",
+      "image": "https://cdn.dribbble.com/userupload/37650196/file/original-7e2877591f964d8b5c44c91ce94afe48.png?resize=1200x0",
+      "category": "Mobile"
+    },
+    {
+      "title": "Elevate - Countdown Timer Page",
+      "url": "https://dribbble.com/shots/18229097-Elevate-Countdown-Timer-Page",
+      "id": "18229097",
+      "image": "https://cdn.dribbble.com/userupload/37608075/file/still-82c5c20968f93439a7f314a10a7d1fda.gif?resize=1200x0",
+      "category": "Web"
+    },
+    {
+      "title": "Sociality - Sign Up Page",
+      "url": "https://dribbble.com/shots/18191128-Sociality-Sign-Up-Page",
+      "id": "18191128",
+      "image": "https://cdn.dribbble.com/userupload/37542493/file/original-09bda4fa0cefeb13f7c2cf1a34a1a808.png?resize=1200x0",
+      "category": "Web"
+    },
+    {
+      "title": "EventOn - Event Finder Landing Page",
+      "url": "https://dribbble.com/shots/18155657-EventOn-Event-Finder-Landing-Page",
+      "id": "18155657",
+      "image": "https://cdn.dribbble.com/userupload/37481677/file/original-1ca2d2ab9e324bcc9cb2154705768619.png?resize=1200x0",
+      "category": "Web"
+    }
+  ],
+  "projectStudies": {
+    "wetrack-app": {
+      "focus": "Product workflows & integrations",
+      "context": "A Computer Science thesis project created by Ervin Cahyadinata Sungkono, Christopher Vinantius, and Kenneth Nathanael. The application brings task tracking, scheduling, and collaboration into one workspace.",
+      "challenge": "A task is more than a title: it has a schedule, attachments, collaborators, and a history. The interface needs to make that information usable across boards, calendars, and dashboards.",
+      "highlights": [
+        "Kanban boards for organising and tracking tasks",
+        "Scheduling, attachments, dashboards, history, and notifications",
+        "AI-assisted task creation and recommendations"
+      ],
+      "decisions": [
+        {
+          "title": "Use specialised tools for complex interactions",
+          "implementation": "The documented stack combines Next.js and Firebase with FullCalendar, drag-and-drop, Chart.js, and table components to support different views of the work.",
+          "tradeoff": "Specialised libraries reduce the amount of interaction code to write, but their behaviour, accessibility, and upgrade paths still need to work together."
+        },
+        {
+          "title": "Add AI assistance to an existing task workflow",
+          "implementation": "Task creation and recommendations use the OpenAI API alongside the application’s conventional task-management features.",
+          "tradeoff": "AI output adds value only when users can review it. Network failures, latency, and incomplete suggestions need clear handling at the point of use."
+        }
+      ],
+      "nextStep": "A useful next validation step is an end-to-end test of task creation, board updates, and scheduling, including failed requests and keyboard interaction.",
+      "reference": {
+        "label": "Project README & team credits",
+        "href": "https://github.com/ervin-sungkono/WeTrack-App#readme"
+      }
+    },
+    "chatgpt-clone": {
+      "focus": "Streaming UI & browser persistence",
+      "context": "An educational chat application that explores incremental responses, document input, and conversation history stored in the browser.",
+      "challenge": "Chat responses arrive over time. The interface needs to display partial content while keeping the conversation readable and preserving history between visits.",
+      "highlights": [
+        "Server-sent events handled through ReadableStream",
+        "Text and PDF input, speech recognition, and Markdown rendering",
+        "Conversation history in localStorage, with light and dark themes"
+      ],
+      "decisions": [
+        {
+          "title": "Render a response as it arrives",
+          "implementation": "ReadableStream handles server-sent events so the interface can present a response incrementally instead of waiting for the entire message.",
+          "tradeoff": "Streaming offers earlier feedback, but requires handling interrupted connections and content split across chunks. It does not make the model finish sooner."
+        },
+        {
+          "title": "Keep conversation history in the browser",
+          "implementation": "The application uses localStorage instead of an application database for chat history.",
+          "tradeoff": "This keeps persistence simple for an educational app. History remains tied to one browser, has storage limits, and can disappear when site data is cleared."
+        }
+      ],
+      "nextStep": "A useful next step is to test stream interruption and recovery, storage failures, and accessible announcements while a response is being generated.",
+      "reference": {
+        "label": "Project README & feature history",
+        "href": "https://github.com/ervin-sungkono/ChatGPT-Clone#readme"
+      }
+    },
+    "next-pokedex": {
+      "focus": "API-driven interfaces & rendering",
+      "context": "A Pokémon catalogue built with Next.js, React, Sass, and PokéAPI. The public project description identifies static generation and server-side rendering as areas explored.",
+      "challenge": "A catalogue needs to turn external API data into a consistent browsing experience. The rendering strategy affects when data is fetched and how fresh each page can be.",
+      "highlights": [
+        "Catalogue data from the public PokéAPI",
+        "Exploration of static generation and server-side rendering",
+        "A React interface styled with Sass"
+      ],
+      "decisions": [
+        {
+          "title": "Explore more than one rendering strategy",
+          "implementation": "The repository description explicitly lists SSG and SSR. This project provides a concrete setting for comparing build-time and request-time data fetching.",
+          "tradeoff": "Static generation can serve prepared content quickly; request-time rendering can use fresher data but adds work to the request. Neither is automatically the best choice for every route."
+        }
+      ],
+      "nextStep": "A useful next step is to document which routes use each strategy and compare behaviour when the API is slow or unavailable, before making performance claims.",
+      "reference": {
+        "label": "Repository description & source",
+        "href": "https://github.com/ervin-sungkono/Next-Pokedex"
+      }
+    }
+  },
+  "portfolioSource": "https://github.com/ervin-sungkono/Portfolio-Website-v2",
+  "portfolioSourceRef": "feat/portfolio-rework-phase-1"
+}
