@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "projects": [
+    "android-calculator-app",
+    "chatgpt-clone",
+    "clock-app",
+    "css-box-shadow-generator",
+    "discord-music-bot",
+    "dnd-multiplication-game",
+    "easy-trip",
+    "frontendmentor-io",
+    "inventory-management-app",
+    "javascript-2d-chess",
+    "kita-peduli",
+    "next-pokedex",
+    "qr-code-gen",
+    "simple-youtube-clone",
+    "todo-app",
+    "weather-forecast-app",
+    "wetrack-app"
+  ]
+}
