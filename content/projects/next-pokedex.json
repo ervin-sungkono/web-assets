@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Next Pokedex",
   "summary": "Pokedex using PokeAPI, built in Next.js using SSG and SSR",
   "description": "Pokedex using PokeAPI, built in Next.js using SSG and SSR",
@@ -24,5 +24,6 @@
   "media": {
     "cover": "media/projects/next-pokedex/cover-4c4bd47d.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 583715585
 }

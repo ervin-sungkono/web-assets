@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Android Calculator App",
   "summary": "Calculator App built in Android Studio using Java",
   "description": "Calculator App built in Android Studio using Java",
@@ -21,5 +21,6 @@
   "media": {
     "cover": "media/projects/android-calculator-app/cover-9d978234.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 558204741
 }

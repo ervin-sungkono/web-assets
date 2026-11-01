@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "ChatGPT Clone",
   "summary": "A clone of ChatGPT website, made using the ChatGPT API. Additional features like .txt or .pdf upload and speech recognition are also included.",
   "description": "A clone of ChatGPT website, made using the ChatGPT API. Additional features like .txt or .pdf upload and speech recognition are also included.",
@@ -25,5 +25,6 @@
   "media": {
     "cover": "media/projects/chatgpt-clone/cover-a96c6df9.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 647812745
 }

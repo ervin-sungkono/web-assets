@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Clock App",
   "summary": "Clock App built using Javascript, features a timer, stopwatch, and a clock visualization.",
   "description": "Clock App built using Javascript, features a timer, stopwatch, and a clock visualization.",
@@ -23,5 +23,6 @@
   "media": {
     "cover": "media/projects/clock-app/cover-b5ef219e.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 517544061
 }

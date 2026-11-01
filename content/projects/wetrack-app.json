@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "WeTrack App",
   "summary": "Development of project management app for thesis using NextJS v13 and Firebase",
   "description": "Development of project management app for thesis using NextJS v13 and Firebase",
@@ -27,5 +27,6 @@
   "media": {
     "cover": "media/projects/wetrack-app/cover-d8eb479c.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 744526407
 }

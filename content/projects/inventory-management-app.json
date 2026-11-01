@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Inventory Management App",
   "summary": "Inventory Management App for group final project. Made in Android Studio using Java, SQLite, and Firebase Auth.",
   "description": "Inventory Management App for group final project. Made in Android Studio using Java, SQLite, and Firebase Auth.",
@@ -23,5 +23,6 @@
   "media": {
     "cover": "media/projects/inventory-management-app/cover-0885a3f0.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 566667418
 }

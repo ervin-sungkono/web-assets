@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Frontend Mentor",
   "summary": "a collection of solutions for frontendmentor.io challenges",
   "description": "a collection of solutions for frontendmentor.io challenges",
@@ -35,5 +35,6 @@
       "media/projects/frontendmentor-io/gallery-7-cb65c446.webp",
       "media/projects/frontendmentor-io/gallery-8-a7a881d8.webp"
     ]
-  }
+  },
+  "githubRepositoryId": 626356347
 }

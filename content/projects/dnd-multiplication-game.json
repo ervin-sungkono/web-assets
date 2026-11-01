@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "DnD Multiplication Game",
   "summary": "Multiplication Game using Drag and Drop, built with HTML, CSS and Javascript.",
   "description": "Multiplication Game using Drag and Drop, built with HTML, CSS and Javascript.",
@@ -24,5 +24,6 @@
   "media": {
     "cover": "media/projects/dnd-multiplication-game/cover-95561190.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 519540760
 }

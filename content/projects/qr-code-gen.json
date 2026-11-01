@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "QR Code Gen",
   "summary": "Simple QR Code Generator",
   "description": "Simple QR Code Generator",
@@ -26,5 +26,6 @@
   "media": {
     "cover": "media/projects/qr-code-gen/cover-09c69301.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 858016238
 }

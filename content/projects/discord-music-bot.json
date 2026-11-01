@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Discord Music Bot",
   "summary": "Music bot for Discord servers using discord-player and discord.js",
   "description": "Music bot for Discord servers using discord-player and discord.js",
@@ -24,5 +24,6 @@
   "media": {
     "cover": "media/projects/discord-music-bot/cover-31077fb7.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 592381448
 }

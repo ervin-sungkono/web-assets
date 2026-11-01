@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Simple Youtube Clone",
   "summary": "Youtube Clone without any database using youtube-sr and yt-channel-info package, using Material UI for the design",
   "description": "Youtube Clone without any database using youtube-sr and yt-channel-info package, using Material UI for the design",
@@ -25,5 +25,6 @@
   "media": {
     "cover": "media/projects/simple-youtube-clone/cover-3256e4c1.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 620749427
 }

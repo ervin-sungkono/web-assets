@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Javascript 2D Chess",
   "summary": "2D Chess Game made in Javascript.",
   "description": "2D Chess Game made in Javascript.",
@@ -23,5 +23,6 @@
   "media": {
     "cover": "media/projects/javascript-2d-chess/cover-8797ece6.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 522490482
 }

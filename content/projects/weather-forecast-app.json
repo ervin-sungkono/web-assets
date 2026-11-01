@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Weather Forecast App",
   "summary": "Weather Forecast App showing weather data on a selected city for the next 24 hours.",
   "description": "Weather Forecast App showing weather data on a selected city for the next 24 hours.",
@@ -24,5 +24,6 @@
   "media": {
     "cover": "media/projects/weather-forecast-app/cover-8e4019ab.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 518089178
 }

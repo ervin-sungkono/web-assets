@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "CSS Box Shadow Generator",
   "summary": "Generate and modify CSS for cards using box-shadow attribute",
   "description": "Generate and modify CSS for cards using box-shadow attribute",
@@ -23,5 +23,6 @@
   "media": {
     "cover": "media/projects/css-box-shadow-generator/cover-b16ceca4.webp",
     "gallery": []
-  }
+  },
+  "githubRepositoryId": 518750261
 }
